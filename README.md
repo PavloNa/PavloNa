@@ -11,7 +11,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavlona&show_icons=true&locale=en&layout=compact" alt="pavlonazarhuk" /></p>
 
-<p><img align="right" src="![Pavlo_Na's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pavlo_Na&theme=vue-dark&hide_border=true)" alt="pavlonazarhuk" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Pavlo_Na&theme=vue-dark&hide_border=true" alt="pavlonazarhuk" /></p>
 
 <!--
 **PavloNa/PavloNa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
