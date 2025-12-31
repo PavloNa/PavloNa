@@ -8,8 +8,3 @@
 <p align="center">
 <a href="https://pt.linkedin.com/in/pavlonazarchuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavlo-nazarhuk" height="30" width="40" /></a>
 </p>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=PavloNa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="pavlonazarhuk" /></p>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavloNa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="pavlonazarhuk" /></p>
-
