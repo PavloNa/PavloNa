@@ -4,7 +4,7 @@
 
 **Software Development Engineer @ Expedia Group** · Rome, Italy
 
-Backend developer focused on Python, with PostgreSQL, AWS and Docker.
+Backend developer focused on Python, also working with Kotlin and Spring Boot, PostgreSQL, AWS and Docker.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pavlona.github.io-8b5cf6?style=flat-square&logo=googlechrome&logoColor=white)](https://pavlona.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pavlonazarchuk-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavlonazarchuk)
