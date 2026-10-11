@@ -4,7 +4,7 @@
 
 **Software Development Engineer @ Expedia Group** · Rome, Italy
 
-Backend and distributed systems: Kotlin, Spring Boot, gRPC, Python and AWS.
+Backend developer focused on Python, with PostgreSQL, AWS and Docker.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pavlona.github.io-8b5cf6?style=flat-square&logo=googlechrome&logoColor=white)](https://pavlona.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pavlonazarchuk-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavlonazarchuk)
@@ -33,7 +33,7 @@ Backend and distributed systems: Kotlin, Spring Boot, gRPC, Python and AWS.
 ### Tech I work with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,spring,java,python,ts,js,react,nextjs,postgres,mysql,aws,docker,jenkins,nginx,grafana,git,linux&perline=9" alt="Kotlin, Spring, Java, Python, TypeScript, JavaScript, React, Next.js, PostgreSQL, MySQL, AWS, Docker, Jenkins, NGINX, Grafana, Git, Linux" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,aws,docker,kotlin,spring,java,ts,js,react,nextjs,mysql,jenkins,nginx,grafana,git,linux&perline=9" alt="Python, PostgreSQL, AWS, Docker, Kotlin, Spring, Java, TypeScript, JavaScript, React, Next.js, MySQL, Jenkins, NGINX, Grafana, Git, Linux" />
 </p>
 
 ### Projects
