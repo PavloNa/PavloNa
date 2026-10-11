@@ -1,15 +1,45 @@
-<h1 align="center">Welcome to Pavlo's GitHub!</h1>
-<h2 align="center">Have a look :)</h2>
-<h3 align="center">MEng Computer Science @ University of Surrey</h3>
+<div align="center">
 
-<h3 align="center">Languages and Tools:</h3>
+# Pavlo Nazarchuk
 
-<p align="center">
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a><a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/></a><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a><a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/></a><a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/></a><a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
+**Software Development Engineer @ Expedia Group** · Rome, Italy
+
+Backend and distributed systems: Kotlin, Spring Boot, gRPC, Python and AWS.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-pavlona.github.io-8b5cf6?style=flat-square&logo=googlechrome&logoColor=white)](https://pavlona.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pavlonazarchuk-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavlonazarchuk)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-pavlopt-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/pavlopt)
+
+</div>
+
+---
+
+### About me
+
+- Building a dynamic content-personalization feature at **Expedia Group**, on a service handling 21,000+ requests per minute.
+- Before that: backend systems and AWS infrastructure at **Viqal**, and CI/CD and automation tooling at **Sky UK**.
+- MEng Computer Science, **University of Surrey**.
+
+### Experience
+
+| Company | Role | Dates |
+| :-- | :-- | :-- |
+| **Expedia Group** | Software Development Engineer I | Apr 2026 – Present |
+| **Viqal** | Backend Developer | Sep 2025 – Apr 2026 |
+| **Sky UK** | Associate Developer | Jul 2022 – Jul 2023 |
+
+### Tech I work with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,spring,java,python,ts,js,react,nextjs,postgres,mysql,aws,docker,jenkins,nginx,grafana,git,linux&perline=9" alt="Kotlin, Spring, Java, Python, TypeScript, JavaScript, React, Next.js, PostgreSQL, MySQL, AWS, Docker, Jenkins, NGINX, Grafana, Git, Linux" />
 </p>
 
-<h3 align="center">Connect with me:</h3>
+### Featured projects
 
-<p align="center">
-<a href="https://pt.linkedin.com/in/pavlonazarchuk" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
-</p>
+| Project | What it does | Stack |
+| :-- | :-- | :-- |
+| [**Rome Bus Tracker**](https://github.com/PavloNa/Rome-Bus-Tracker) | Backend that merges static GTFS with GTFS-RT feeds to show live bus arrivals at stops across Rome | Python |
+| [**Minutes Generator**](https://github.com/PavloNa/Minutes-Generator) | Turns meeting transcripts and audio recordings into concise action points and PDF minutes | JavaScript, GPT |
+| [**MedNER**](https://huggingface.co/pavlopt) | Final-year project: medical named-entity recognition models fine-tuned with spaCy | Python, spaCy |
+| [**Anti-Camera Protocol**](https://github.com/PavloNa/AntiCameraProtocol) | Proof-of-concept RFC for communication between cars | Python |
+| [**ARM Assembly Hangman**](https://github.com/PavloNa/ARM-Assembly-Hangman) | Hangman, written entirely in ARM assembly | Assembly |
