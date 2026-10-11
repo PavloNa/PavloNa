@@ -16,9 +16,11 @@ Backend and distributed systems: Kotlin, Spring Boot, gRPC, Python and AWS.
 
 ### About me
 
-- Building a dynamic content-personalization feature at **Expedia Group**, on a service handling 21,000+ requests per minute.
-- Before that: backend systems and AWS infrastructure at **Viqal**, and CI/CD and automation tooling at **Sky UK**.
-- MEng Computer Science, **University of Surrey**.
+- 💻 **Programming:** backend systems at work, side projects outside it
+- 🎮 **Gaming**
+- 📚 **Reading**
+- 🏋️ **Working out**
+- 🎓 MEng Computer Science, **University of Surrey**
 
 ### Experience
 
@@ -34,12 +36,10 @@ Backend and distributed systems: Kotlin, Spring Boot, gRPC, Python and AWS.
   <img src="https://skillicons.dev/icons?i=kotlin,spring,java,python,ts,js,react,nextjs,postgres,mysql,aws,docker,jenkins,nginx,grafana,git,linux&perline=9" alt="Kotlin, Spring, Java, Python, TypeScript, JavaScript, React, Next.js, PostgreSQL, MySQL, AWS, Docker, Jenkins, NGINX, Grafana, Git, Linux" />
 </p>
 
-### Featured projects
+### Projects
 
 | Project | What it does | Stack |
 | :-- | :-- | :-- |
-| [**Rome Bus Tracker**](https://github.com/PavloNa/Rome-Bus-Tracker) | Backend that merges static GTFS with GTFS-RT feeds to show live bus arrivals at stops across Rome | Python |
-| [**Minutes Generator**](https://github.com/PavloNa/Minutes-Generator) | Turns meeting transcripts and audio recordings into concise action points and PDF minutes | JavaScript, GPT |
 | [**MedNER**](https://huggingface.co/pavlopt) | Final-year project: medical named-entity recognition models fine-tuned with spaCy | Python, spaCy |
-| [**Anti-Camera Protocol**](https://github.com/PavloNa/AntiCameraProtocol) | Proof-of-concept RFC for communication between cars | Python |
+| [**Minutes Generator**](https://github.com/PavloNa/Minutes-Generator) | Turns meeting transcripts and audio recordings into concise action points and PDF minutes | JavaScript, GPT |
 | [**ARM Assembly Hangman**](https://github.com/PavloNa/ARM-Assembly-Hangman) | Hangman, written entirely in ARM assembly | Assembly |
